@@ -51,7 +51,7 @@ class Kiapp extends StatelessWidget {
               headlineMedium: TextStyle(
                   fontFamily: 'Kiafont',
                   color: Colors.red,
-                  fontSize: 21,
+                  fontSize: 20,
                   fontWeight: FontWeight.w300),
               headlineSmall: TextStyle(
                   fontFamily: 'Kiafont',
